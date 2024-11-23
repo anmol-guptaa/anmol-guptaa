@@ -1,4 +1,4 @@
-![logo](https://github.com/anmol-guptaa/anmol-guptaa/blob/main/github.banner)
+![logo](https://github.com/anmol-guptaa/anmol-guptaa/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Anmol Gupta</h1>
 <h3 align="center">A passionate java developer.</h3>
 <img align ="right" alt = "coding"width="400"src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
