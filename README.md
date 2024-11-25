@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *@anmollgupta9105@gmail.com*
 
-- ⚡ Fun fact *Full-time coffee enthusiasts 😅*
+- ⚡ Fun fact *Full-time coffee enthusiasts ☕*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
